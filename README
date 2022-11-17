@@ -1,0 +1,4 @@
+Dice Game
+-----------------------
+
+run with: java DiceGame 10000 5
